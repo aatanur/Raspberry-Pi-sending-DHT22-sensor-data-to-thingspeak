@@ -1,0 +1,1 @@
+# Raspberry-Pi-sending-DHT22-sensor-data-to-thingspeak
